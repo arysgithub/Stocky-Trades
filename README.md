@@ -90,7 +90,7 @@ Unlike most NEA submissions (e.g., simple games or library systems), I went a st
 - Real-world tools like APIs and charts taught me more than any basic NEA.
 - Simpler, fully working projects often score better than ambitious but incomplete ones.
 
-### 🔧 Requirements
+## 🔧 Requirements
 
 - Java 17+
 - Gradle (bundled with IntelliJ or CLI)
@@ -98,37 +98,38 @@ Unlike most NEA submissions (e.g., simple games or library systems), I went a st
 - MySQL (local server or remote)
 - Git
 
-### 🏁 Getting Started
+## 🏁 Getting Started
 
 1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/arysgithub/Stocky-Trades
+```
 
 2. **Open in IntelliJ IDEA**
-    - Launch IntelliJ IDEA
-    - Select 'Open' or `File -> Open` > select the cloned folder
-    - Select `build.gradle` file
-    - Click "Open as Project" and Select "Trust Project" if prompted
-    - IntelliJ will automatically detect the Gradle build and import dependencies.
+- Launch IntelliJ IDEA
+- Select 'Open' or `File -> Open` > select the cloned folder
+- Select `build.gradle` file
+- Click "Open as Project" and Select "Trust Project" if prompted
+- IntelliJ will automatically detect the Gradle build and import dependencies.
 
 3. **Configure JDK**
-    - Go to `File -> Project Structure`
-    - Set SDK to JDK 17 or later
-    - Set Language Level to match your JDK
+- Go to `File -> Project Structure`
+- Set SDK to JDK 17 or later
+- Set Language Level to match your JDK
 
 4. **Build the Project**
-    - Wait for Gradle to sync dependencies
-    - Click Gradle refresh
-    - Build using the Gradle task:
+- Wait for Gradle to sync dependencies
+- Click Gradle refresh
+- Build using the Gradle task:
       ```bash
       ./gradlew build
       ```
 
 5. **Run the Application**
-    - Locate `Main.java` in the project explorer
-    - Right-click and select "Run 'Main.main()'"
-    - Alternatively, use the Gradle task:
+- Locate `Main.java` in the project explorer
+- Right-click and select "Run 'Main.main()'"
+- Alternatively, use the Gradle task:
       ```bash
       ./gradlew run
       ```
