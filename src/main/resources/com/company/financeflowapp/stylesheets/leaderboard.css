@@ -1,0 +1,9 @@
+/* leaderboard.css */
+.profit-high { background-color: #4CAF50; } /* Green for high profits */
+.profit-medium { background-color: #FFEB3B; } /* Yellow for medium profits */
+.profit-low { background-color: #F44336; } /* Red for low profits */
+.leaderboard-grid { /* Styles for the grid */
+    -fx-padding: 10;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+}
