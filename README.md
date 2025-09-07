@@ -5,6 +5,21 @@
 ⚠️ **Note**: For full documentation oor the original 115-page technical report, [message me personally on LinkedIn](https://www.linkedin.com/in/aaryan-shariff/).
 
 ---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=openjdk&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/API-RESTful-blue?style=flat&logo=cloudflare&logoColor=white)
+![AlphaVantage](https://img.shields.io/badge/API-AlphaVantage-0066cc?style=flat)
+![Concurrency](https://img.shields.io/badge/Concurrency-Multithreaded-success?style=flat&logo=codewars&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-purple?style=flat&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black?style=flat&logo=github)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/arysgithub/Stocky-Trades)
+
 
 ## 🚀 Project Summary
 
