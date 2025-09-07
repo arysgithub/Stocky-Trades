@@ -104,7 +104,6 @@ Unlike most NEA submissions (e.g., simple games or library systems), I went a st
 
 ```bash
 git clone https://github.com/arysgithub/Stocky-Trades
-cd Stocky-Trades
 
 2. **Open in IntelliJ IDEA**
     - Launch IntelliJ IDEA
